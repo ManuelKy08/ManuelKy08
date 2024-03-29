@@ -7,7 +7,7 @@ Hi, I'm [Risky-Manuel](https://manuelky08.github.io) , Beginner, Web &; Mobile A
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning Malbolge, C++, PHP, Python etc; 
+- 🌱 I’m currently learning C++, PHP, Python etc; 
 - 💬 Ask me about anything, I am happy to help;
 
 **Languages and Tools:**  
